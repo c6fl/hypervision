@@ -4,6 +4,8 @@ A minimal, **"Type-1 hypervisor"** for Windows x64 built directly on Intel VT-x.
 Note that i'd call it a **clone-style** hypervisor cuz the driver puts every logical processor into VMX non-root operation while the already running Windows instance keeps executing as the guest.
 So it is not a bootkit powered nor a UEFI based hypervisor, this does load under windows os and virtualizes it.
 
+NO AI WERE USED ! So you better take some time reading this because i made it with love 
+
 ## Features
 
 * Intel VT-x / VMX
