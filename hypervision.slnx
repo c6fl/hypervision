@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="hypervision/hypervision.vcxproj" Id="fe19a86a-b716-4550-ba31-e2ca3a124afc" />
+  <Project Path="vmx_lab/vmx_lab.vcxproj" Id="7c31e3a1-5c74-4f3a-9d21-2f5a44b7e902" />
+</Solution>
